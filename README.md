@@ -1,5 +1,5 @@
 # spark-mercadona-ine
-Análisis y visualización de datos de productos de Mercadona y categorías del INE (2024-2025) utilizando PySpark y Power BI.
+Análisis y visualización de datos de productos de Mercadona y categorías IPC del INE (2024-2025) utilizando PySpark y Power BI.
 # Análisis de Datos: Mercadona e INE (2024-2025)
 
 Este proyecto tiene como objetivo la recolección, limpieza, análisis y visualización de datos provenientes de dos fuentes principales:
