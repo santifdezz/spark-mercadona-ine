@@ -35,7 +35,8 @@ Los datos serán procesados y analizados utilizando **PySpark**, y los resultado
 ├── ipc.ipynb # Analisis y limpieza de datos del IPC- INE
 ├── ipc_spark.ipynb # Jupyter Notebook para procesamiento de datos y graficos desde servidor SPARK 
 ├── mercadona_api.ipynb # Scripts en PySpark para el procesamiento de 
-├── PowerBI.pdf# Archivo explicativo con como lo he utilizado y recorrido para su funcionamiento (2024)
+├── PowerBI.pdf # Archivo explicativo con como lo he utilizado y recorrido para su funcionamiento (2024)
+├── mercadona_ipc_sfs.pbix # Archivo .pbix funcional en poewerBI (2024)
 └── README.md # Este archivo
 
 
